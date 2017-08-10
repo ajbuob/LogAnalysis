@@ -1,0 +1,7 @@
+# IntelliJ project files
+.idea
+*.iml
+*.eml
+
+#Project output directory
+output
