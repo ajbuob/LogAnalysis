@@ -2,6 +2,7 @@
 .idea
 *.iml
 *.eml
+target
 
 #Project output directory
 output
